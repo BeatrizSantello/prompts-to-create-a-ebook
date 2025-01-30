@@ -22,12 +22,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de FGTS. O ebook abordará a importância do Fundo de Garantia do Tempo de Serviço para o titular da conta vinculada e para o avanço do país e da sociedade brasileira. O título deve ser atrativo e curto, de fácil entendimento até pelas pessoas com menos instrução escolar. Me liste 5 variações de títulos                                                       |
-| conteúdo | faça um texto para e-book, com foco no FGTS, mencionando as vantagens da existência desse fundo para o trabalhador e como ele beneficia a sociedade brasileira e contribui para o crescimento para o país. Cite exemplos de como e onde o recurso do FGTS foi utilizado.
-{REGRAS}
-> explique sempre de uma maneira simples
-> deixe o texto enxuto
-> sempre traga exemplos reais de utilização dos recursos
-> sempre deixe um texto sugestivo por tópico
+| conteúdo | faça um texto para e-book, com foco no FGTS, mencionando as vantagens da existência desse fundo para o trabalhador e como ele beneficia a sociedade brasileira e contribui para o crescimento para o país. Cite exemplos de como e onde o recurso do FGTS foi utilizado. {REGRAS} > explique sempre de uma maneira simples > deixe o texto enxuto > sempre traga exemplos reais de utilização dos recursos > sempre deixe um texto sugestivo por tópico
 
 
 
