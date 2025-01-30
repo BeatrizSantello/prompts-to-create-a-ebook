@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso que realizei na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -40,15 +40,21 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de FGTS. O ebook abordará a importância do Fundo de Garantia do Tempo de Serviço para o titular da conta vinculada e para o avanço do país e da sociedade brasileira. O título deve ser atrativo e curto, de fácil entendimento até pelas pessoas com menos instrução escolar. Me liste 5 variações de títulos                                                       |
+| conteúdo | faça um texto para e-book, com foco no FGTS, mencionando as vantagens da existência desse fundo para o trabalhador e como ele beneficia a sociedade brasileira e contribui para o crescimento para o país. Cite exemplos de como e onde o recurso do FGTS foi utilizado.
+{REGRAS}
+> explique sempre de uma maneira simples
+> deixe o texto enxuto
+> sempre traga exemplos reais de utilização dos recursos
+> sempre deixe um texto sugestivo por tópico
+
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create an e-book cover with a Gen Z person holding a cell phone in their raised hands as if celebrating a victory. On the cell phone screen, the FGTS application should be shown. |
 
 ## ✨ Features
 
